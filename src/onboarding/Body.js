@@ -30,7 +30,7 @@ const Body = (props) => {
   if (props.currStep != 2) return null;
   return (
     <React.Fragment>
-      <div class="main">
+      <div class="main" id="input-override">
         <div class="form-item logo-header">
           <h1>
             <b>

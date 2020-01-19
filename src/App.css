@@ -8,10 +8,11 @@
 }
 
 #header-image {
-  width: 60%;
-  float: right;
+  width: 70%;
+  float: left;
   z-index: 1;
-  max-width: 1000px;
+  max-width: 600px;
+  marigin-top: 0px;
 }
 
 #opening-text {
@@ -26,10 +27,10 @@
 
 .form-item {
   width: 60%;
-  max-width: 800px;
+  max-width: 900px;
 
   margin: auto;
-  padding: 50px 100px 50px 100px;
+  padding: 30px 80px 30px 80px;
 
   background-color: RGBA(0, 0, 0, 0.05);
   border-radius: 20px;
@@ -136,4 +137,47 @@
   cursor: pointer;
 
   margin: 10px;
+}
+
+.intro img  {
+  transform: translateY(-100px);
+}
+
+@media only screen and (max-width: 800px) {
+  #header-image {
+    float: none;
+    display: block;
+    padding-top: 20px;
+  }
+  .main {
+    width: 100%;
+    padding: 20px;
+  }
+  #opening-text {
+    color: black;
+    font-size: 16px;
+    width: 100%;
+  }
+  .intro h2 {
+    font-size: 20px;
+  }
+  .credits p {
+    font-size: 14px;
+  }
+  .form-item  {
+    width: 100%;
+  }
+
+}
+
+@media only screen and (min-width: 801px) and (max-width: 1500px) {
+  .form-item  {
+    width: 90%;
+    max-width: 2000px;
+  }
+  #input-override {
+    width: 90%;
+      padding: 20px;
+  }
+
 }
