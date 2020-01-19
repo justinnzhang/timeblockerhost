@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/timeblockerhost/static/css/main.44eaeaea.chunk.css",
+    "main.js": "/timeblockerhost/static/js/main.76c34b59.chunk.js",
+    "main.js.map": "/timeblockerhost/static/js/main.76c34b59.chunk.js.map",
+    "runtime-main.js": "/timeblockerhost/static/js/runtime-main.39916003.js",
+    "runtime-main.js.map": "/timeblockerhost/static/js/runtime-main.39916003.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/timeblockerhost/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.7c41ad41.chunk.js": "/timeblockerhost/static/js/2.7c41ad41.chunk.js",
+    "static/js/2.7c41ad41.chunk.js.map": "/timeblockerhost/static/js/2.7c41ad41.chunk.js.map",
+    "index.html": "/timeblockerhost/index.html",
+    "precache-manifest.61517f6282bb728842ccc43a0db8ac37.js": "/timeblockerhost/precache-manifest.61517f6282bb728842ccc43a0db8ac37.js",
+    "service-worker.js": "/timeblockerhost/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/timeblockerhost/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.44eaeaea.chunk.css.map": "/timeblockerhost/static/css/main.44eaeaea.chunk.css.map",
+    "static/js/2.7c41ad41.chunk.js.LICENSE": "/timeblockerhost/static/js/2.7c41ad41.chunk.js.LICENSE",
+    "static/media/logo.svg": "/timeblockerhost/static/media/logo.5d5d9eef.svg",
+    "static/media/App.css": "/timeblockerhost/static/media/timeclock-background.e9fa8854.jpg",
+    "static/media/student.png": "/timeblockerhost/static/media/student.513fa4d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39916003.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.7c41ad41.chunk.js",
+    "static/css/main.44eaeaea.chunk.css",
+    "static/js/main.76c34b59.chunk.js"
+  ]
+}
