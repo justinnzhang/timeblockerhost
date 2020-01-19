@@ -1,2 +1,0 @@
-# timeblocker
-UOFTHACKS VII
