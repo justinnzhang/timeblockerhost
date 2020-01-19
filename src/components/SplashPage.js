@@ -9,6 +9,10 @@ class SplashPage extends React.Component {
     if (this.props.currStep != 1) return null;
     return (
       <div class="main">
+        <Badge variant="dark">
+          Made for full screen desktop views
+        </Badge>
+        <br />
         <Badge pill variant="primary">
           36-Hour Hackathon
         </Badge>
@@ -47,7 +51,7 @@ class SplashPage extends React.Component {
           </Fade>
 
           <Fade right>
-            <img src={"/images/" + this.props.image} id="header-image" />
+            <img src={"./images/" + this.props.image} id="header-image" />
           </Fade>
         </div>
       </div>
