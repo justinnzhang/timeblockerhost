@@ -52,6 +52,10 @@ const MainApp = props => {
   const [ _due, setDue] = useState("2020-01-25");
   const [ _name, setName] = useState("");
 
+  const handleDemo = () =>  {
+
+  }
+
   const handleChange = (event) => {
       switch (event.target.id)    {
           case "course":
@@ -143,7 +147,7 @@ const MainApp = props => {
                 Add To-Do
               </Button>
 
-              <Button variant="info" size="lg">
+              <Button variant="info" size="lg" onClick={handleDemo}>
                 Send to Calendar
               </Button>
             </div>
