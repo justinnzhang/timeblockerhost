@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/timeblockerhost/static/css/main.5fe4d1d3.chunk.css",
-    "main.js": "/timeblockerhost/static/js/main.c8a0e9f0.chunk.js",
-    "main.js.map": "/timeblockerhost/static/js/main.c8a0e9f0.chunk.js.map",
+    "main.js": "/timeblockerhost/static/js/main.fefcbf26.chunk.js",
+    "main.js.map": "/timeblockerhost/static/js/main.fefcbf26.chunk.js.map",
     "runtime-main.js": "/timeblockerhost/static/js/runtime-main.39916003.js",
     "runtime-main.js.map": "/timeblockerhost/static/js/runtime-main.39916003.js.map",
     "static/css/2.47e06e2e.chunk.css": "/timeblockerhost/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.b6e9b1ee.chunk.js": "/timeblockerhost/static/js/2.b6e9b1ee.chunk.js",
-    "static/js/2.b6e9b1ee.chunk.js.map": "/timeblockerhost/static/js/2.b6e9b1ee.chunk.js.map",
+    "static/js/2.abe346bd.chunk.js": "/timeblockerhost/static/js/2.abe346bd.chunk.js",
+    "static/js/2.abe346bd.chunk.js.map": "/timeblockerhost/static/js/2.abe346bd.chunk.js.map",
     "index.html": "/timeblockerhost/index.html",
-    "precache-manifest.850a6b5bebe849f82714fba8f2739514.js": "/timeblockerhost/precache-manifest.850a6b5bebe849f82714fba8f2739514.js",
+    "precache-manifest.e2f0339026469a54f8aa6dd0a38442d4.js": "/timeblockerhost/precache-manifest.e2f0339026469a54f8aa6dd0a38442d4.js",
     "service-worker.js": "/timeblockerhost/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/timeblockerhost/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.5fe4d1d3.chunk.css.map": "/timeblockerhost/static/css/main.5fe4d1d3.chunk.css.map",
-    "static/js/2.b6e9b1ee.chunk.js.LICENSE": "/timeblockerhost/static/js/2.b6e9b1ee.chunk.js.LICENSE",
+    "static/js/2.abe346bd.chunk.js.LICENSE": "/timeblockerhost/static/js/2.abe346bd.chunk.js.LICENSE",
     "static/media/logo.svg": "/timeblockerhost/static/media/logo.5d5d9eef.svg",
     "static/media/App.css": "/timeblockerhost/static/media/timeclock-background.e9fa8854.jpg",
     "static/media/student.png": "/timeblockerhost/static/media/student.513fa4d4.png"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.39916003.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.b6e9b1ee.chunk.js",
+    "static/js/2.abe346bd.chunk.js",
     "static/css/main.5fe4d1d3.chunk.css",
-    "static/js/main.c8a0e9f0.chunk.js"
+    "static/js/main.fefcbf26.chunk.js"
   ]
 }
